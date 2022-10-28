@@ -2,5 +2,12 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: aqua;
+  /* background-color: aqua; */
+  /* background-image: url('./img/2511.jpg');
+  background-size: cover; */
+}
+
+.box {
+  background-image: url('./img/2511.jpg');
+  background-size: cover;
 }
